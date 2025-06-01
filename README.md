@@ -51,7 +51,8 @@ project-root/
 
 ## 🚀 Deployment
 
-The project is hosted on **GitHub Pages**, making it publicly accessible at:
+The project is hosted on some sites, making it publicly accessible at:
+https://ecolife-dusky.vercel.app/
 
 ---
 
