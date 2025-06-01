@@ -30,8 +30,8 @@ All color pairings were tested with the WebAIM Contrast Checker and pass WCAG A
 2. Serve the `index.html` file locally (e.g., with the VS Code Live Server extension) or deploy to GitHub Pages.
 
 ## 🔗 Links
-- **Live Site** – <https://yourusername.github.io/ecolife>
-- **Repository** – <https://github.com/yourusername/ecolife>
+- **Live Site** – 
+- **Repository** – <https://github.com/bonifacemutwiri17/ecolife>
 
 ---
 © 2025 EcoLife. All rights reserved.
