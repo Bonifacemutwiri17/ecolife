@@ -53,12 +53,6 @@ project-root/
 
 The project is hosted on **GitHub Pages**, making it publicly accessible at:
 
-```
-https://<your-github-username>.github.io/ecolife
-```
-
-It can also be deployed using **Vercel** or **Netlify** for more advanced hosting options.
-
 ---
 
 © 2025 EcoLife. All rights reserved.
